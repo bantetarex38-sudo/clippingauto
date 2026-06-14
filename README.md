@@ -1,0 +1,2 @@
+# clippingauto
+autoupload
